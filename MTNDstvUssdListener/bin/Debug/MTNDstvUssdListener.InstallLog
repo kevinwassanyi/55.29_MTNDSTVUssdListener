@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.InstallLog
+   assemblypath = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.InstallLog
+   assemblypath = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.InstallLog
+   assemblypath = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe
+Installing service MtnDstvUssdListner...
+Service MtnDstvUssdListner has been successfully installed.
+Creating EventLog source MtnDstvUssdListner in log Application...
+Committing assembly 'E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.InstallLog
+   assemblypath = E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\MTNDstvUssdListener\bin\Debug\MTNDstvUssdListener.exe

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="UssdProcessorLib.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UssdProcessorLib_PegPay_PegPay" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://test.pegasus.co.ug:8019/TestBillPaymentsLevel1Api/PegPay.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

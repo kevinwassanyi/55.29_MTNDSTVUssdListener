@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://test.pegasus.co.ug:8019/TestBillPaymentsLevel1Api/PegPay.asmx?WSDL" filename="PegPay.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

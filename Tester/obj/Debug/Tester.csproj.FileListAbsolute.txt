@@ -1,0 +1,16 @@
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Tester.exe.config
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Tester.exe
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Tester.pdb
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\UssdProcessorLib.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\CookComputing.XmlRpcV2.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Encryption.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\UssdProcessorLib.pdb
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\bin\Debug\UssdProcessorLib.dll.config
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\obj\Debug\Tester.csproj.AssemblyReference.cache
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\obj\Debug\Tester.csproj.Up2Date
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\obj\Debug\Tester.exe
+E:\KEVIN\MomoListenerConsoleApp\MTNDstvUssdListener\Tester\obj\Debug\Tester.pdb
